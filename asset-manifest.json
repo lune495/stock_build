@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a1697825.css",
+    "main.js": "./static/js/main.19358a5b.js",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/product.png": "./static/media/product.6ae9a64d1242362cb18f.png",
+    "static/media/logo.png": "./static/media/logo.e7313ff8100c66ca5c96.png",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/nucleo-icons.eot": "./static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "./static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/nucleo-icons.woff": "./static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "./static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "static/media/logo.svg": "./static/media/logo.2d27ead7c10f774c5306bcf3c257a728.svg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a1697825.css",
+    "static/js/main.19358a5b.js"
+  ]
+}
